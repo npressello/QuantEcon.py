@@ -110,3 +110,5 @@ setup(name='quantecon',
           ],
       include_package_data=True
       )
+
+#Just checking if I am learning GIT correctly
